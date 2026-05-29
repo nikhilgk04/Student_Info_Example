@@ -1,0 +1,1 @@
+Teacher name: Karan, Subject: English, Salary: 54000, Work Place: Sheetal Academy 
